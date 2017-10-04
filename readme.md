@@ -15,7 +15,7 @@ $ npm install --save ternary
 ```js
 var ternary = require('ternary')
 
-ternary('condition', 'whenTruthy' : 'whenFalsy')
+ternary('condition', 'whenTruthy', 'whenFalsy')
 //=> condition ? whenTruthy : whenFalsy
 ```
 
