@@ -1,4 +1,4 @@
-# ternary [![Build Status](https://travis-ci.org/bendrucker/ternary.svg?branch=master)](https://travis-ci.org/bendrucker/ternary)
+# ternary [![Build Status](https://travis-ci.org/bendrucker/ternary.svg?branch=master)](https://travis-ci.org/bendrucker/ternary) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/ternary.svg)](https://greenkeeper.io/)
 
 > Build a ternary statement
 
